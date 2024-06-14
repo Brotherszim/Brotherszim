@@ -1,4 +1,4 @@
-## • Welcome to my Profile 💙💙
+## • Bem-Vindos(as) ao meu Perfil 💙💙
 • Meu nome é nome é Fernando 🍓
 
 ## • Estou estudando na Alura 😏
