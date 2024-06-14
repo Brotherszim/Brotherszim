@@ -1,8 +1,8 @@
-# • Boas vindas ao meu perfil 💙💙
+# • Welcome to my Profile 💙💙
 # • Meu nome é nome Fernando
 
 # • Estou estudando na Alura 😏
-# • Por isso me desenvolvendo na linguagem JavaScript 🥵
+# • Por isso me desenvolvo na linguagem JavaScript 🥵
 # • Alguém me manda 3 mil no pix? 🥺
 
 ## • Você pode entrar em contato comigo 📫
