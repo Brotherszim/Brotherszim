@@ -1,9 +1,9 @@
-# • Welcome to my Profile 💙💙
- • Meu nome é nome Fernando
+• Welcome to my Profile 💙💙
+• Meu nome é nome Fernando
 
 # • Estou estudando na Alura 😏
-# • Por isso me desenvolvo na linguagem JavaScript 🥵
-# • Alguém me manda 3 mil no pix? 🥺
+• Por isso me desenvolvo na linguagem JavaScript 🥵
+• Alguém me manda 3 mil no pix? 🥺
 
 ## • Você pode entrar em contato comigo 📫
 ### • entre-em.contatocomigokkk@gmail.com
