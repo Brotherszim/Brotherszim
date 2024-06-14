@@ -1,5 +1,5 @@
 ## • Welcome to my Profile 💙💙
-• Meu nome é nome Fernando
+• Meu nome é nome é Fernando 🍓
 
 ## • Estou estudando na Alura 😏
 • Por isso me desenvolvo na linguagem JavaScript 🥵
